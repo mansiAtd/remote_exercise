@@ -19,7 +19,7 @@ To get started, run the following commands:
 
 Clone the repository -
 
-`git clone https://github.com/mansi-gupta29/api.git`
+`git clone https://github.com/mansiAtd/remote_exercise.git`
 
 Install the required dependencies
 
@@ -31,7 +31,7 @@ Edit config/dev.exs file and change the database related configuration as applic
 
 Now you visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-# Response 
+# Response
 
 `{
   'users': [{id: 29, points: 31}, {id: 16, points: 90}],
